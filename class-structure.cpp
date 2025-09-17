@@ -39,7 +39,6 @@ int main() {
     Student s1("Ali", 20);
     s1.display();
 
-    Student s2 = s1; // Copy constructor
     s2.name = "ahmed";
     s2.display();
 
